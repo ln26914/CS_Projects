@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ Car\n\ \n\ A\ class\ that\ simulates\ the\ functionality\ of\ a\ car.\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 21st,\ 2024)\n
+comment1.params=make\ yearModel
+comment1.target=Car(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Car\n
+comment2.params=
+comment2.target=int\ getYear()
+comment2.text=\n\ Getters\ for\ the\ member\ variables\n
+comment3.params=
+comment3.target=int\ getSpeed()
+comment4.params=
+comment4.target=java.lang.String\ getMake()
+comment5.params=
+comment5.target=void\ accelerate()
+comment5.text=\n\ Brake/Accelerate\ methods\n\ \n\ Reduce/Increase\ the\ speed\ member\ variable\n
+comment6.params=
+comment6.target=void\ brake()
+numComments=7

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CheckingAccount
+comment0.text=\n\ A\ Checking\ Account\ Class\n\ Just\ like\ a\ bank\ account,\ except\ limited\ to\ -$100\ balance\ and\ tracks\n\ deposit\ fees.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\n\ @version\ v0.1\ (July\ 14th,\ 2024)\n
+comment1.params=accountNumber\ interestRate
+comment1.target=CheckingAccount(int,\ double)
+comment1.text=\n\ Constructor\:\n\ Create\ objects\ of\ type\ CheckingAccount\n
+comment2.params=
+comment2.target=int\ getDepositCount()
+comment2.text=\n\ getDeposits\n\ Returns\ the\ number\ of\ deposits\ from\ this\ account.\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\n\ Withdraw\:\n\ \n\ Override\:\n\ Withdraw\ an\ amount\ that's\ less\ than\ or\ equal\ to\ this\ account's\ balance\n
+comment4.params=amount
+comment4.target=void\ deposit(double)
+comment4.text=\n\ Deposit\:\n\ \n\ Override\:\n\ Track\ the\ deposit\ count\ with\ this\ object's\ deposit\ count\ variable\n
+comment5.params=
+comment5.target=void\ processEndOfMonth()
+comment5.text=\n\ ProcessEndOfMonth\n\ Add\ interest\ from\ the\ end\ of\ this\ month.\n\ Override\:\ Reset\ withdrawal\ count.\n
+numComments=6

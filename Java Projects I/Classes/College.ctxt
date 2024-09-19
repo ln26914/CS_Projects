@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=College
+comment0.text=\n\ College\ Class\:\ Simulate\ a\ university\ student\ with\ the\ following\n\ parameters\:\n\ \n\ First\ name,\ last\ name\ and\ student\ ID\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 8th\ 2024)\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\ \n\ Not\ executable\ directly\ as\ it\ lacks\ a\ main()\ function.\n
+comment1.params=collegeName\ address
+comment1.target=College(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ College\n
+comment2.params=
+comment2.target=java.lang.String\ getAddress()
+comment2.text=\n\ getAddress\n\ \n\ Returns\ the\ address\ of\ this\ College\ object.\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ getName\n\ \n\ Returns\ the\ name\ of\ this\ College\ object.\n
+comment4.params=newCourse
+comment4.target=void\ addCourse(Course)
+comment4.text=\n\ addCourse\n\ \n\ Adds\ an\ additional\ course\ to\ this\ college.\n\ college1.addCourse(course1)\ adds\ course1\ to\ the\ college1.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ toString\n\ \n\ print\ an\ abbreviated\ report\ of\ this\ college.\ This\ abbreviated\ report\n\ doesn't\ expand\ each\ course.\ Instead,\ it\ only\ lists\ their\ name\ and\n\ CRN.\n
+comment6.params=
+comment6.target=java.lang.String\ toStringXL()
+comment6.text=\n\ toStringXL()\n\ Print\ out\ a\ complete\ report\ of\ every\ course\ available.\n\ Note\:\ The\ output\ will\ be\ very\ large.\n
+numComments=7

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\n\ Banking\ Account\ Class.\n\ Simulate\ the\ functionality\ of\ a\ banking\ account.\n\n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ \n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 14th\ 2024)\n
+comment1.params=accountNumber\ interestRate
+comment1.target=Account(int,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Account.\n\ Given\ the\ account\ number\ and\ interest\ rate,\ generate\ a\ new\ account.\n
+comment2.params=
+comment2.target=double\ getBalance()
+comment2.text=\n\ getBalance\:\n\ Return\ the\ balance\ within\ this\ account.\n\ No\ Parameters\n
+comment3.params=
+comment3.target=double\ getInterestRate()
+comment3.text=\n\ getInterestRate\n\ Return\ the\ interest\ rate\ of\ this\ account.\n\ No\ Parameters\n
+comment4.params=
+comment4.target=double\ getAccountNumber()
+comment4.text=\n\ getAccountNumber\n\ Return\ the\ bank\ account\ number\ of\ this\ account.\n\ Use\ with\ care.\ The\ account\ numbers\ are\ unencrypted.\n\ No\ parameters\n
+comment5.params=amount
+comment5.target=void\ deposit(double)
+comment5.text=\n\ deposit\n\ Add\ some\ money\ to\ the\ balance\ of\ this\ account.\n\ Given\ the\ double\ amount,\ add\ it\ to\ this\ balance\ and\ return\ nothing.\n\ Checks\ for\ a\ negative\ deposit\ amount.\n
+comment6.params=amount
+comment6.target=void\ withdraw(double)
+comment6.text=\n\ withdraw\n\ Remove\ some\ money\ from\ the\ balance\ of\ this\ account.\n\ Given\ the\ double\ amount,\ subtract\ it\ rom\ this\ balance\ and\ return\n\ nothing.\n\ Checks\ for\ a\ negative\ withdraw\ amount.\n
+comment7.params=
+comment7.target=void\ processEndOfMonth()
+comment7.text=\n\ processEndOfMonth()\n\ Gain\ interest\ to\ your\ account.\n
+numComments=8

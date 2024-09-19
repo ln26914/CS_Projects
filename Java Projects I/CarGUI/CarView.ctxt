@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CarView
+comment0.text=\n\ CarView\n\ \n\ A\ GUI\ class\ that\ shows\ the\ details\ of\ a\ car.\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 21st,\ 2024)\n
+comment1.params=car
+comment1.target=CarView(Car)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ CarView\n
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Course
+comment0.text=\n\ Course\ Class\:\ Simulate\ a\ university\ course\ with\ the\ following\n\ parameters\:\n\ \n\ Title,\ CRN,\ seatCount,\ Student\ array\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 8th\ 2024)\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\ \n\ JavaTpoint.\ (July\ 9th,\ 2024).\ Default\ Parameter\ in\ Java.\ \n\ Retrieved\ July\ 9,\ 2024,\ from\ https\://www.javatpoint.com/\n\ default-parameter-in-java\n\ \n\ Not\ executable\ directly\ as\ it\ lacks\ a\ main()\ function.\n
+comment1.params=title\ CRN
+comment1.target=Course(java.lang.String,\ int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Course\n
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment2.text=\n\ getTitle\n\ \n\ Returns\ the\ Title\ of\ this\ Course\ object\n\ course1.getTitle()\ returns\ "Intro\ to\ Computer\ Science"\n
+comment3.params=
+comment3.target=int\ getCRN()
+comment3.text=\n\ getCRN\n\ \n\ Returns\ the\ CRN\ of\ this\ Course\ object\n\ course1.getCRN()\ returns\ 001\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\n\ toString\n\ \n\ Displays\ all\ the\ data\ for\ this\ course.\n\ Formatted\ String\:\ "%s\ %d\ \\n\\n\ %s\ \\n",\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ this.getTitle(),\ this.getCRN(),\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ studentList[i].toString()\n\ Iteratively\ concatenate\ student\ toString()\ from\ this\ course's\n\ studentList\ instance\ variable.\n
+comment5.params=target
+comment5.target=void\ enroll(Student)
+comment5.text=\n\ enroll(Student)\n\ \n\ Enrolls\ the\ target\ student\ into\ this\ course,\ incrementing\ fullSeats.\n\ given\ a\ student,\ adds\ them\ to\ the\ studentList\ and\ returns\ nothing.\n\ \n\ course1.enroll(student1)\ returns\ nothing.\n
+numComments=6

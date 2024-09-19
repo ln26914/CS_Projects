@@ -1,0 +1,28 @@
+#BlueJ class context
+comment0.target=NumberArrays
+comment0.text=\n\ NumberArrays\:\ Implement\ some\ methods\ for\ managing\ arrays\ of\ numbers\n\ \n\ Inputs\:\ ---\n\ Outputs\:\ Testing\ Output\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (June\ 27th,\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Purpose\:\ Test\ the\ functionality\ of\ the\ numerical\ array\ management\n\ functions.\n\ Given\ no\ arguments,\ prints\ the\ output\ and\ returns\ nothing\n\ main();\ returns\ void\n
+comment2.params=array
+comment2.target=int\ getCount(int[])
+comment2.text=\n\ Purpose\:\ Return\ the\ number\ of\ elements\ in\ an\ array.\ Empty\ array\ \=\ 0\n\ Given\ an\ array,\ return\ the\ number\ of\ elements\n\ getCount({1,2,3})\ returns\ 3,\ getCount({})\ returns\ 0.\n
+comment3.params=array
+comment3.target=int\ getHighestIndex(int[])
+comment3.text=\n\ Purpose\:\ Return\ the\ maximum\ index\ in\ an\ array\n\ Given\ an\ array,\ return\ the\ index\ of\ the\ last\ item.\n\ getHighestIndex({1,2,3})\ returns\ 2,\ getHighestIndex({1})\ returns\ 0\n
+comment4.params=array
+comment4.target=int\ getLastElement(int[])
+comment4.text=\n\ Purpose\:\ Return\ the\ final\ element\ of\ an\ array.\ Empty\ array\ \=\ 0\n\ Given\ an\ array,\ return\ the\ final\ element\n\ getLastElement({1,2,3})\ returns\ 3\n
+comment5.params=array
+comment5.target=int\ findMaximum(int[])
+comment5.text=\n\ Purpose\:\ Find\ the\ largest\ element\ in\ the\ array,\ including\ negatives\n\ Given\ an\ array,\ return\ the\ largest\ element\n\ findMaximum({1,2,3})\ returns\ 3,\ findMaximum({-3,1,-2})\ returns\ 1\n
+comment6.params=array
+comment6.target=int\ findMinimum(int[])
+comment6.text=\n\ Purpose\:\ Find\ the\ smallest\ element\ in\ the\ array,\ including\ negatives\n\ Given\ an\ array,\ return\ the\ smallest\ element\n\ findMinimum({1,2,3})\ returns\ 1,\ findMinimum({-3,1,-2})\ returns\ -3.\n
+comment7.params=array
+comment7.target=int\ calculateSum(int[])
+comment7.text=\n\ Purpose\:\ Calculate\ the\ sum\ of\ the\ elements\ in\ the\ array\n\ Given\ an\ array,\ return\ the\ sum\ of\ the\ elements\n\ calculateSum({1,2,3})\ returns\ 6\n
+comment8.params=array
+comment8.target=double\ calculateAverage(int[])
+comment8.text=\n\ Purpose\:\ Calculate\ the\ average\ of\ the\ elements\ in\ the\ array\n\ Given\ an\ array,\ return\ the\ averate\ of\ the\ elements\n\ calculateAverage({1,2,3})\ returns\ 2\n
+numComments=9

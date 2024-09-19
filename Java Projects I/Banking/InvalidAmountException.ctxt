@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=InvalidAmountException
+comment0.text=\n\ InvalidAmountException\n\ \n\ An\ Exception\ Class\ that\ handles\ excessive\ overdrafts.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 18th,\ 2024)\n
+comment1.params=potentialAmount\ minBalance
+comment1.target=InvalidAmountException(double,\ double)
+numComments=2

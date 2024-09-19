@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WithdrawCountException
+comment0.text=\n\ WithdrawCountException\n\ \n\ An\ Exception\ Class\ that\ handles\ excessive\ withdraws.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 18th,\ 2024)\n
+comment1.params=withdrawCount
+comment1.target=WithdrawCountException(int)
+numComments=2

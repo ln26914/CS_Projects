@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SavingsAccount
+comment0.text=\n\ A\ Savings\ Account\ Class\n\ Just\ like\ a\ bank\ account,\ except\ limited\ to\ $0\ balance\ or\ higher\ with\ only\n\ 6\ withdraws\ per\ month.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\n\ @version\ v0.1\ (July\ 14th,\ 2024)\n
+comment1.params=accountNumber\ interestRate
+comment1.target=SavingsAccount(int,\ double)
+comment1.text=\n\ Constructor\:\n\ Create\ objects\ of\ type\ SavingsAccount\n
+comment2.params=
+comment2.target=int\ getWithdrawCount()
+comment2.text=\n\ getWithdrawCount\n\ Returns\ the\ number\ of\ withdrawals\ from\ this\ account.\n
+comment3.params=amount
+comment3.target=void\ withdraw(double)
+comment3.text=\n\ Withdraw\:\n\ \n\ Override\:\n\ Withdraw\ an\ amount\ that's\ less\ than\ or\ equal\ to\ this\ account's\ balance\n
+comment4.params=
+comment4.target=void\ processEndOfMonth()
+comment4.text=\n\ ProcessEndOfMonth\n\ Add\ interest\ from\ the\ end\ of\ this\ month.\n\ Override\:\ Reset\ withdrawal\ count.\n
+numComments=5

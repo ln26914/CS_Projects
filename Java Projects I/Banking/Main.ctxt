@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Main\:\n\ Primary\ Executable\ Class.\ Tests\ the\ classes\ defined\ in\ the\ other\ files.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.2\ (July\ 19th,\ 2024)\n\ \n\ Initial\ Deposit\:\ $500\n\ Initial\ Withdraw\:\ $450\n\ \n\ Final\ Balance\ after\ Interest\:\ $50.50\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

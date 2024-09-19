@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=LotterySimulation
+comment0.text=\n\ LotterySimulation\:\ Simulate\ a\ random\ drawing\ of\ 5\ numbers\ from\ 1-10.\ \n\ If\ you\ guess\ all\ five\ unique\ numbers\ in\ any\ order,\ you\ win.\n\ \n\ Inputs\:\ your\ lottery\ numbers\ int[5]\n\ Outputs\:\ winning\ lottery\ numbers,\ whether\ you\ won\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (June\ 29th,\ 2024)\n
+comment1.params=args
+comment1.target=int\ main(java.lang.String[])
+comment1.text=\n\ Purpose\:\ Simulate\ a\ simplified\ lottery.\n\ Given\ 5\ numbers\ from\ the\ user,\ print\ whether\ those\ 5\ numbers\ win.\n\ User's\ input\ and\ lottery\ numbers\ can\ be\ in\ different\ orders\n\ returns\ an\ integer.\ 0\ for\ success,\ 1\ for\ failure.\n\ main()\ returns\ 0\ or\ 1\ depending\ on\ if\ you\ win\n
+comment2.params=array\ key
+comment2.target=boolean\ contains(int[],\ int)
+comment2.text=\n\ Purpose\:\ Check\ if\ the\ key\ value\ is\ contained\ in\ the\ array.\n\ Given\ an\ array\ and\ a\ key\ value,\ return\ true\ if\ the\ key\ is\ anywhere\ in\n\ the\ array.\n\ contains({2,4,6},2)\ returns\ true.\n
+comment3.params=
+comment3.target=int[]\ pickWinningNumbers()
+comment3.text=\n\ Purpose\:\ Return\ a\ spread\ of\ 5\ unique\ numbers\n\ Given\ no\ arguments,\ return\ an\ array\ of\ 5\ unique\ integers\ from\ 1-9.\n\ pickWinningNumbers\ could\ return\ {1,4,5,6,9}\n
+comment4.params=guess\ answer
+comment4.target=boolean\ isWinner(int[],\ int[])
+comment4.text=\n\ Purpose\:\ Determine\ whether\ you\ win\n\ Given\ two\ arrays,\ return\ whether\ their\ contents\ match\ regardless\n\ of\ the\ order\n\ isWinner({0,2,4,6},{6,0,2,4})\ returns\ true.\n\ isWinner({1,4,2,6},{6,0,2,4})\ returns\ false.\n
+comment5.params=array
+comment5.target=java.lang.String\ stringify(int[])
+comment5.text=\n\ Purpose\:\ Print\ an\ array\ prettily\n\ Given\ an\ array,\ return\ a\ string\ of\ the\ contents\n\ stringify({2,4,8,16})\ returns\ "2,\ 4,\ 8,\ 16"\n\ Empty\ array\ returns\ an\ empty\ string\n
+numComments=6

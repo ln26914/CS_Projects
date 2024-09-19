@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Student
+comment0.text=\n\ Student\ Class\:\ Simulate\ a\ university\ student\ with\ the\ following\n\ parameters\:\n\ \n\ First\ name,\ last\ name\ and\ student\ ID\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ v0.1\ (July\ 8th\ 2024)\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\ \n\ GeeksforGeeks.\ (July\ 7th,\ 2024).\ Java\ String\ format()\ method\ with\ examples.\ \n\ GeeksforGeeks.\ Retrieved\ July\ 9,\ 2024,\ from\ https\://www.geeksforgeeks.org/\n\ java-string-format-method-with-examples/\n\ \n\ Not\ executable\ directly\ as\ it\ lacks\ a\ main()\ function.\n
+comment1.params=firstName\ lastName
+comment1.target=Student(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Student\n
+comment2.params=
+comment2.target=java.lang.String\ getFirstName()
+comment2.text=\n\ getFirstName\n\ \n\ Returns\ the\ first\ name\ of\ this\ Student\ object\n\ student1.getFirstName()\ returns\ "Bart"\n
+comment3.params=
+comment3.target=java.lang.String\ getLastName()
+comment3.text=\n\ getLastName\n\ \n\ Returns\ the\ last\ name\ of\ this\ Student\ object\n\ student1.getLastName()\ returns\ "Simpson"\n
+comment4.params=
+comment4.target=int\ getCSID()
+comment4.text=\n\ getCSID\n\ \n\ Returns\ the\ CSID\ of\ this\ Student\ object\n\ student1.getLastName()\ returns\ 1\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ toString\n\ \n\ Returns\ the\ contained\ data\ as\ a\ pretty\ string.\n\ \n\ Formatted\ String\:\ "%s,\ %s\ \\nCSID\:\ %d",\ \n\ this.getLastName(),\ this.getFirstName,\ this.getCSID\n\ \n\ Result\:\n\ "Bart,\ Simpson\n\ CSID\:\ 007"\n\ \n\ NOTE\:\ toString\ has\ a\ newline\ character.\ Keep\ this\ in\ mind\ when\n\ using\ System\ library\ to\ print.\n
+numComments=6

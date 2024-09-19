@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FancyBillCalculator
+comment0.text=\n\ Fancy\ Bill\ Calculator\:\ Modify\ an\ initial\ bill\ by\ a\ tip\ percent\ to\ produce\n\ the\ final\ bill\ after\ tip.\ Use\ a\ Java\ Option\ Pane\ for\ the\ UI\ instead\ of\n\ the\ terminal.\n\ \n\ Input\:\ Initial\ Bill,\ Tip\ Percent\n\ Output\:\ Total\ Bill\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ \n\ @version\ 0.1\ (6/11/2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

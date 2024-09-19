@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BrakeButtonListener
+comment0.text=\n\ BrakeButtonListener\n\ \n\ A\ class\ that\ simulates\ the\ functionality\ of\ a\ car's\ brake\ pedal\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 21st,\ 2024)\n
+comment1.params=car\ speedLabel
+comment1.target=BrakeButtonListener(Car,\ javax.swing.JLabel)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
