@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TreasureGame
+comment0.text=\n\ TreasureGame\n\ You\ have\ 50\ tries\ to\ find\ 20\ treasures\ on\ a\ JFrame-powered\ GUI\ board.\n\ The\ buttons\ start\ blank\ and\ reveal\ either\ "O"\ for\ empty\ or\ "$"\ for\ treasure.\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 24th,\ 2024)\n
+comment1.params=
+comment1.target=TreasureGame()
+comment1.text=\n\ TreasureGame()\n\ \n\ The\ single\ most\ important\ function\ in\ this\ entire\ project.\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\n\ play()\n\ \n\ Play\ the\ treasure\ finding\ game\!\n
+comment3.params=
+comment3.target=int\ getAttempts()
+comment3.text=\n\ getAttempts()\n\ Return\ the\ attempt\ count\n
+comment4.params=
+comment4.target=void\ attempt()
+comment4.text=\n\ attempt()\n\ Reduces\ attempt\ count\ by\ 1\n
+comment5.params=
+comment5.target=void\ findTreasure()
+comment5.text=\n\ findTreasure()\n\ Reduces\ remaining\ treasure\ count\ by\ 1\n
+comment6.params=
+comment6.target=java.lang.String\ getStatus()
+comment6.text=\n\ getStatus()\n\ Returns\ a\ string\ that\ describes\ the\ current\ status\ of\ the\ game.\n
+comment7.params=
+comment7.target=boolean\ gameOver()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

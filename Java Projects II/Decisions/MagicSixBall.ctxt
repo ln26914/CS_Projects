@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MagicSixBall
+comment0.text=\n\ MagicSixBall\:\ Randomly\ print\ out\ one\ of\ six\ answer\ strings\ randomly.\n\ Default\ answer\ is\ "Try\ Again".\n\ \n\ Inputs\:\ ---\n\ Outputs\:\ Message\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (June\ 13th,\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

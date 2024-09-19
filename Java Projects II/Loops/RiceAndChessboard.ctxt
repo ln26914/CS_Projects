@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=RiceAndChessboard
+comment0.text=\n\ RiceAndChessboard\:\ You\ are\ offered\ a\ job\ for\ 7\ weeks.\ You\ have\ the\ choice\n\ to\ be\ paid\ $100\ the\ first\ day,\ $200\ the\ second,\ $300\ the\ third\ day,\ etc.\ for\n\ the\ rest\ of\ the\ time.\ Or,\ you\ can\ be\ paid\ 1\u00A2\ for\ the\ first\ day,\ 2\u00A2\ the\ \n\ second\ day,\ 4\u00A2\ the\ third\ day,\ doubling\ each\ day.\ \n\ Use\ an\ accumulation\ variable.\n\ \n\ Input\:\ Income\ Plan,\ Number\ of\ Days\n\ Output\:\ Total\ Income\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\ \n\ @version\ 0.1\ (June\ 14th\ 2024)\n
+comment1.params=args
+comment1.target=int\ main(java.lang.String[])
+numComments=2

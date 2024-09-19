@@ -1,0 +1,34 @@
+#BlueJ class context
+comment0.target=ElectricScooter
+comment0.text=\n\ Simulate\ an\ electric\ scooter\ with\ a\ brand\ name,\ color,\ price\ and\ speed.\n\ \n\ Extra\:\ Add\ a\ licence\ plate\ mechanic\ to\ make\ every\ scooter\ identifiable,\n\ freeing\ up\ variable\ naming\ conventions.\n\ \n\ Did\ I\ go\ overboard?\ Yes.\ Am\ I\ proud\ of\ the\ code\ I've\ written?\ Absolutely.\n\ \n\ Developer's\ Note\:\ Member\ functions\ are\ sorted\ with\ respect\ to\ their\n\ function.\ Getters\ with\ getters,\ setters\ with\ setters,\ etc.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\ \n\ Oracle.\ (n.d.).\ Primitive\ data\ types.\ Java\ Tutorials.\ \n\ Retrieved\ July\ 6,\ 2024,\ from\ https\://docs.oracle.com/javase/tutorial/java/\n\ nutsandbolts/datatypes.html\#\:~\:text\=byte%3A%20The%20byte%20data%20type,\n\ the%20memory%20savings%20actually%20matters.\n\n\ @author\ Noah\ Boyd\ (5550203507)\n\ @version\ 0.1\ July\ 5th\ 2024\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Test\ the\ ElectricScooter\n
+comment10.params=
+comment10.target=void\ brake()
+comment10.text=\n\ Brake\n\ decrease\ the\ scooter's\ speed\ by\ 1.5\ mph.\n\ No\ parameters,\ Returns\ nothing.\n\ \n\ redScooter.Brake()\ increments\ the\ speed\ by\ -1.5\ mph.\n
+comment2.params=brandName\ price
+comment2.target=ElectricScooter(java.lang.String,\ double)
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ ElectricScooter\n\ Takes\ the\ brand\ name\ and\ price\ of\ the\ scooter\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\n\ getPrice\n\ Returns\ the\ double\ value\ representing\ this\ scooter's\ price.\n\ No\ parameters.\n\ \n\ redScooter.getPrice()\ returns\ a\ single\ double\ value\ for\ the\ price\n\ in\ USD.\n
+comment4.params=
+comment4.target=java.lang.String\ getBrand()
+comment4.text=\n\ getBrand\n\ Returns\ the\ brand\ of\ the\ electric\ scooter\n\ No\ parameters.\n\ \n\ redScooter.getPrice()\ returns\ a\ String\ containing\ the\ brand\ name.\n
+comment5.params=
+comment5.target=int[]\ getColor()
+comment5.text=\n\ getColor\n\ Returns\ a\ 3-member\ integer\ array,\ based\ on\ the\ color\ bytes.\n\ No\ parameters.\n\ \n\ redScooter.getColor()\ returns\ a\ three-member\ integer\ array\ for\n\ redScooter's\ RGB\ values.\n
+comment6.params=
+comment6.target=double\ getSpeed()
+comment6.text=\n\ getSpeed\n\ Returns\ a\ double\ value,\ the\ scooter's\ speed\ in\ miles/hour\n\ No\ parameters.\n\ \n\ redScooter.getSpeed()\ returns\ a\ double\ value\ that\ represent's\ this\n\ scooter's\ speed.\n
+comment7.params=
+comment7.target=int\ getID()
+comment7.text=\n\ getID\n\ Returns\ the\ integer\ ID\ of\ the\ scooter.\n\ \n\ redScooter.getID()\ returns\ the\ scooter's\ ID\ number\n
+comment8.params=newColor
+comment8.target=void\ setColor(int[])
+comment8.text=\n\ setColor\n\ Given\ a\ 3-member\ integer\ array,\ set\ the\ color\ of\ this\ scooter.\n\ Returns\ whether\ a\ complete\ RGB\ array\ was\ entered.\n\ \n\ setColor({255,255,255})\ sets\ the\ color\ bytes\ to\ {127,127,127},\n\ representing\ the\ color\ white.\n\ \n\ If\ an\ RGB\ value\ is\ negative,\ set\ to\ 0.\ If\ it's\ >\ 255,\ set\ to\ 255.\n\ If\ newColor\ has\ 0\ elements,\ return\ false.\n\ If\ newColor\ has\ 1-2\ elements,\ keep\ untargeted\ RGB\ values.\n\ If\ newColor\ has\ 4\u2264\ elements,\ use\ only\ the\ first\ three.\n
+comment9.params=
+comment9.target=void\ accelerate()
+comment9.text=\n\ Accelerate\n\ increase\ the\ scooter's\ speed\ by\ 2.5\ mph.\n\ No\ parameters,\ Returns\ nothing.\n\ \n\ redScooter.Accelerate()\ increments\ the\ speed\ by\ 2.5\ mph.\n
+numComments=11

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Palindrome
+comment0.text=\n\ Palindrome\:\ Methods\ to\ reverse\ a\ string\ and\ check\ if\ it's\ a\ palindrome\n\ \n\ Inputs\:\ ---\n\ Outputs\:\ ---\n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 1st,\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Purpose\:\ Demonstrate\ the\ string\ reversal\ and\ palindrome\ functionality\n\ Input\:\ ---\n\ Output\:\ Method\ Testing\ Results\n\ main()\ returns\ nothing\ but\ prints\ results\n
+comment2.params=toReverse
+comment2.target=java.lang.String\ reverse(java.lang.String)
+comment2.text=\n\ Purpose\:\ Reverse\ the\ parameter\ string\n\ Given\ a\ string,\ returns\ its\ reverse\n\ reverse("test")\ returns\ "tset"\n
+comment3.params=target
+comment3.target=boolean\ isPalindrome(java.lang.String)
+comment3.text=\n\ Purpose\:\ Check\ if\ the\ parameter\ string\ is\ the\ same\ \n\ backward\ and\ forward\n\ Given\ a\ string,\ return\ whether\ it's\ a\ palindrome\n\ (same\ backward\ and\ forward)\n\ isPalindrome("bruh")\ returns\ false\n
+numComments=4

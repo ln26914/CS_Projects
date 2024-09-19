@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\n\ Store\ an\ array\ of\ 5\ GameScore\ objects.\n\n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ 0.1\ (July\ 19th\ 2024)\n
+comment1.params=scores
+comment1.target=Scoreboard(GameScore[])
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Scoreboard\n
+comment2.params=
+comment2.target=Scoreboard()
+comment2.text=\n\ Default\ Constructor\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ toString()\n\ \n\ Convert\ the\ data\ in\ this\ object\ to\ be\ a\ string\n\ Use\ field\ width\ and\ format\ to\ make\ the\ output\ look\ prettier.\n
+comment4.params=
+comment4.target=GameScore[]\ getScores()
+comment4.text=\n\ getScores\n\ \n\ Returns\ the\ scores\ of\ this\ scoreboard.\n
+numComments=5

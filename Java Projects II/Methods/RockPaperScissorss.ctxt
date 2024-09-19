@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RockPaperScissorss
+comment0.text=\n\n\ RockPaperScissors\:\ Simulate\ the\ game\ Rock\ Paper\ Scissors\ against\ a\ \n\ computer\ opponent.\ The\ computer\ will\ pick\ a\ random\ option\ each\ time.\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ McFadyen,\ R.\ (2015).\ Java\ with\ BlueJ\ Part\ I.\n\ \n\ @version\ 0.1\ (June\ 24th\ 2024)\n\ \n
+comment1.params=args
+comment1.target=int\ main(java.lang.String[])
+comment1.text=\n\ Purpose\:\ Executable\ method\ for\ this\ class\n\ Input/Output\:\ Given\ no\ arguments,\ test\ the\ functionality\ of\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ the\ functions\ implemented\ in\ this\ class\n\ Examples\:\ main()\ returns\ void.\n\ Note\:\ To\ simulate\ all\ possible\ games,\ use\ test()\ instead.\n
+comment2.params=
+comment2.target=java.lang.String\ getUserChoice()
+comment2.text=\n\ Purpose\:\ Get\ the\ user's\ choice\n\ Input/Output\:\ From\ keyboard,\ return\ player's\ rock/paper/scissors\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ selection\n\ Examples\:\ getUserChoice()\ returns\ "Rock",\ "Paper",\ or\ "Scissors"\n
+comment3.params=
+comment3.target=java.lang.String\ getComputerChoice()
+comment3.text=\n\ Purpose\:\ Get\ the\ computer's\ choice\n\ Input/Output\:\ From\ random\ number\ generation,\ find\ the\ computer's\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ rock/paper/scissors\ selection\n\ Examples\:\ getComputerChoice()\ returns\ "Rock",\ "Paper",\ or\ "Scissors"\n
+comment4.params=humanSelection\ comSelection
+comment4.target=java.lang.String\ findWinner(java.lang.String,\ java.lang.String)
+comment4.text=\n\ Purpose\:\ Check\ the\ winner\ from\ the\ Rock\ Paper\ Scissors\n\ Input/Output\:\ From\ the\ two\ selections,\ prints\ the\ winner\n\ Examples\:\ findWnner("Rock",\ "Scissors")\ print\ "You\ win\!"\n
+comment5.params=
+comment5.target=void\ test()
+comment5.text=\n\ Purpose\:\ test\ the\ functionality\ of\ the\ findWinner\ function\n\ Input/Output\:\ Simulate\ the\ 9\ possible\ Rock\ Paper\ Scissors\ games\ and\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ display\ the\ winners\n\ Examples\:\ test()\ displays\ the\ results\ to\ the\ console\n
+numComments=6

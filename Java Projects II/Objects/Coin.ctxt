@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\n\ Simulate\ the\ functionality\ of\ a\ coin,\ with\ a\ heads\ and\ tails\ side.\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ @author\ Noah\ Boyd\ (5550203507)\n\ @version\ 0.1\ July\ 5th\ 2024\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Test\ the\ coin\ class\n
+comment2.params=
+comment2.target=Coin()
+comment2.text=\n\ Constructor\ for\ objects\ of\ class\ Coins\n
+comment3.params=
+comment3.target=void\ flip()
+comment3.text=\n\ Flip\ the\ coin,\ randomly\ assigning\ the\ value\ "true"\ or\ "false"\ to\n\ the\ headsUp\ value.\n
+comment4.params=
+comment4.target=java.lang.String\ getSide()
+numComments=5

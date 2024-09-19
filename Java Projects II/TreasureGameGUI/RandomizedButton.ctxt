@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=RandomizedButton
+comment0.text=\n\ TreasureGameGUI\n\ You\ have\ 50\ tries\ to\ find\ 20\ treasures\ on\ a\ JFrame-powered\ GUI\ board.\n\ The\ buttons\ start\ blank\ and\ reveal\ either\ "O"\ for\ empty\ or\ "X"\ for\ treasure.\n\ \n\ \n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 24th,\ 2024)\n
+comment1.params=isTreasure\ t
+comment1.target=RandomizedButton(boolean,\ TreasureGame)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ RandomizedButton\n
+comment2.params=
+comment2.target=RandomizedButton()
+comment3.params=
+comment3.target=boolean\ reveal()
+comment3.text=\n\ reveal()\n\ \n\ Serves\ as\ both\ a\ foundTreasure\ and\ foundNothing\ function.\n\ \n\ Updates\ the\ button\ label\ when\ it's\ pressed\ and\ returns\ whether\ it's\n\ a\ treasure\ or\ not.\n
+comment4.params=
+comment4.target=void\ revealSpecial()
+comment4.text=\n\ Special\ reveal\ method\ for\ when\ the\ game\ ends.\n\ Unlike\ the\ regular\ reveal()\ method,\ this\ one\ does\ not\ cause\ attempts\n\ or\ find\ treasure.\n
+comment5.params=
+comment5.target=boolean\ isPressed()
+comment6.params=
+comment6.target=boolean\ isTreasure()
+comment7.params=
+comment7.target=TreasureGame\ getGame()
+numComments=8

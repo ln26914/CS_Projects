@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=UnitConversions
+comment0.text=\n\ UnitConversions\:\ Convert\ units\ of\ spead\ and\ temperature\ measurement\ to\n\ their\ metric\ or\ imperial\ counterparts.\n\ \n\ convertMphToKph\:\ Converts\ Mph\ to\ Kph\n\ convertKphToMph\:\ Converts\ Kph\ to\ Mph\n\ convertFToC\:\ Convert\ Fahrenheit\ to\ Celsius\ **\ EXTRA\ METHOD\ **\n\ convertCToF\:\ Convert\ Celsius\ to\ Fahrenheit\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ McFadyen,\ R.\ (2015).\ Java\ with\ BlueJ\ Part\ I.\n\ \n\ @version\ 0.1\ (June\ 24th\ 2024)\n\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mph
+comment2.target=double\ convertMphToKph(double)
+comment2.text=\n\ Purpose\:\ Convert\ speed\ in\ Miles\ Per\ Hour\ to\ Kilometers\ Per\ Hour\n\ Input/Output\:\ Given\ speed\ in\ Mph,\ return\ speed\ in\ Kph\n\ Examples\:\n\ convertMphToKph(100.00)\ returns\ 160.90\n
+comment3.params=kph
+comment3.target=double\ convertKphToMph(double)
+comment3.text=\n\ Purpose\:\ Convert\ speed\ in\ Kilometers\ Per\ Hour\ to\ Miles\ Per\ Hour\n\ Input/Output\:\ Given\ speed\ in\ Kph,\ return\ speed\ in\ Mph\n\ Examples\:\n\ convertKphToMph(100.00)\ returns\ 62.150\n
+comment4.params=fahrenheit
+comment4.target=double\ convertFToC(double)
+comment4.text=\n\ Purpose\:\ Convert\ temperature\ in\ Fahrenheit\ to\ Celsius\n\ Input/Output\:\ Given\ temperature\ in\ Fahrenheit,\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ temperature\ in\ Celsius\n\ Examples\:\n\ convertFtoC(212)\ returns\ 100\n
+comment5.params=celsius
+comment5.target=double\ convertCToF(double)
+comment5.text=\n\ Purpose\:\ Convert\ temperature\ in\ Celsius\ to\ Fahrenheit\n\ Input/Output\:\ Given\ temperature\ in\ Celsius,\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ temperature\ in\ Fahrenheit\n\ Examples\:\n\ convertCtoF(212)\ returns\ 413.6\n
+numComments=6

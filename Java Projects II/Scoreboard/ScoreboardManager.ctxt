@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ScoreboardManager
+comment0.text=\n\ Save\ and\ Load\ Scoreboard\ objects\ from\ a\ file.\n\n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ 0.1\ (July\ 19th\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Main\n\ Test\ the\ scoreboard\ save/load\ functionality\n
+comment2.params=target
+comment2.target=void\ save(Scoreboard)
+comment2.text=\n\ Save\n\ \n\ Take\ a\ scoreboard\ of\ size\ 5,\ print\ its\ comments,\ and\ save\ it\ to\ disk.\n
+comment3.params=filename
+comment3.target=Scoreboard\ load(java.lang.String)
+comment3.text=\n\ Load\n\ \n\ Load\ a\ scoreboard\ from\ the\ disk\ and\ return\ it.\n
+numComments=4

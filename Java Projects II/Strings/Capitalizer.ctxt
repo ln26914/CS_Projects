@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Capitalizer
+comment0.text=\n\ Capitalizer\:\ Given\ a\ string\ of\ words,\ capitalize\ the\ first\ letter\ of\ each\n\ word.\n\ Given\ "dell\ conhager"\ returns\ "Dell\ Conhager"\n\ capitalize("dell\ conhager")\ returns\ "Dell\ Conhager\n\ \n\ Capitalizing\ an\ empty\ string\ returnCapitalizer\:\ Given\ a\ string\ of\ words,\ capitalize\ the\ first\ letter\ of\ each\n\ word.\n\ Given\ "dell\ conhager"\ returns\ "Dell\ Conhager"\n\ capitalize("dell\ conhager")\ returns\ "Dell\ Conhager\n\ \n\ Capitalizing\ an\ empty\ string\ returns\ an\ empty\ strings\ an\ empty\ string\n\n\ @author\ Noah\ Boyd\ 5550203507\n\ @version\ 0.1\ 7/5/2024\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Test\ the\ functionality\ of\ the\ capitalize()\ function.\n\ Given\ nothing,\ prints\ out\ a\ capitalized\ string\ and\ returns\ nothing.\n\ main()\ returns\ nothing\n
+comment2.params=input
+comment2.target=java.lang.String\ capitalize(java.lang.String)
+comment2.text=\n\ Given\ a\ string\ of\ words,\ capitalize\ the\ first\ letter\ of\ \n\ each\ word.\n\ Given\ "dell\ conhager"\ returns\ "Dell\ Conhager"\n\ capitalize("dell\ conhager")\ returns\ "Dell\ Conhager\n\ Capitalizing\ an\ empty\ string\ returns\ an\ empty\ string\n
+numComments=3

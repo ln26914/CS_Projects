@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CellPhonePlanSelector
+comment0.text=\n\ CellPhonePlanSelector\:\ Select\ one\ of\ three\ pre-determined\ plans\ and\ input\n\ how\ many\ talk\ minutes\ you\ used\ and\ output\ the\ total\ cost.\n\ The\ name\ "CellPhonePlans"\ is\ bad\ form\ since\ it's\ a\ plural\ noun\ as\ opposed\n\ to\ a\ singular\ noun,\ which\ is\ why\ I\ named\ this\ class\ "CellPhonePlanSelector".\n\ \n\ Input\:\ Letter\ (A,\ B,\ or\ C),\ Talk\ Minutes\n\ Output\:\ Total\ cost\n\n\ @author\ Noah\ Boyd,\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ \n\ @version\ 0.1\ (June\ 13th,\ 2024)\n
+comment1.params=args
+comment1.target=int\ main(java.lang.String[])
+numComments=2

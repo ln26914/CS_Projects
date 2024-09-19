@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TreasureGameGUI
+comment0.text=\n\ TreasureGameGUI\n\ You\ have\ 50\ tries\ to\ find\ 20\ treasures\ on\ a\ JFrame-powered\ GUI\ board.\n\ The\ buttons\ start\ blank\ and\ reveal\ either\ "O"\ for\ empty\ or\ "$"\ for\ treasure.\n\ \n\n\ @author\ Noah\ Boyd;\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ 2(2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\n\n\ Version\:\ 0.1\ (July\ 24th,\ 2024)\n
+comment1.params=game
+comment1.target=TreasureGameGUI(TreasureGame)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TreasureGameGUI\n
+numComments=2

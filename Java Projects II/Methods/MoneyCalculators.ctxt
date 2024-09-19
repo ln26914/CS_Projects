@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MoneyCalculators
+comment0.text=\n\ MoneyCalculators\:\ A\ few\ functions\ for\ working\ with\ money.\n\ calculateTipAmount\:\ Given\ the\ bill\ and\ tip\ rate,\ find\ the\ tip\ amount\n\ calculateFinalBill\:\ Given\ the\ bill\ and\ the\ tip\ rate,\ find\ the\ final\ bill\n\ calculateMarkup\:\ Given\ the\ initial\ price\ and\ markup\ rate,\ find\ the\ final\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ cost\ after\ tax.\n\n\n\ @author\ Noah\ Boyd\:\ 5550203507\n\ \n\ References\:\n\ Gaddis,\ T.\ (2015).\ Starting\ Out\ With\ Java\ Myprogramming\ Lab\ \n\ From\ Control\ Structures\ Through\ Objects.\ (6th\ ed.).\ Addison-Wesley.\ \n\ McFadyen,\ R.\ (2015).\ Java\ with\ BlueJ\ Part\ I.\n\ \n\ @version\ 0.1\ (June\ 21,\ 2024)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=bill\ tipPercent
+comment2.target=double\ calculateTipAmount(double,\ double)
+comment2.text=\n\ Purpose\:\ Calculate\ the\ tip\ amount\ for\ a\ bill\n\ Input/Output\:\ Given\ bill\ and\ tipPercent,\ return\ tipAmount\n\ Examples\:\n\ calculateTipAmount(50.00,10.00)\ returns\ 5.00\n
+comment3.params=bill\ tipPercent
+comment3.target=double\ calculateFinalBill(double,\ double)
+comment3.text=\n\ Purpose\:\ Calculate\ the\ bill\ with\ the\ tip\ added.\n\ Input/Output\:\ Given\ bill\ and\ tipPercent,\ return\ billWithTip\n\ Examples\:\n\ calculateFinalBill(50.00,10.00)\ returns\ 55.00\n
+comment4.params=initialPrice\ markupPercent
+comment4.target=double\ calculateMarkup(double,\ double)
+comment4.text=\n\ Purpose\:\ Calculate\ the\ final\ price\ after\ markup,\ city\ and\ state\ taxes.\n\ Input/Output\:\ Given\ initialPrice\ and\ markupPercent,\ return\ finalPrice\n\ Examples\:\n\ calculateMarkup(50.00,100.00)\ returns\ 110.00\n
+numComments=5
